@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://www.youtube.com/watch?v=Qr5kHqtj5IY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+# https://www.youtube.com/watch?v=Qr5kHqtj5IY
 
 <!-- Replace this with whatever GIF tool you used! -->
 Mac screenrecord + GIPHY.com
